@@ -107,7 +107,7 @@ export const myProjects =[
     desc: 'VoltCraft is an advanced electronics e-commerce platform offering a smooth shopping experience for tech gadgets. It includes dynamic product filtering, cart management, order tracking, and real-time offers.',
     subdesc:
       'Developed using the MERN stack (MongoDB, Express, React, Node.js) with integrated payment gateway, session management, and real-time AI chatbot. Ensures user-friendly UI and secure transactions.',
-    href: 'https://voltcraft.shop (placeholder or actual link if deployed)',
+    href: "https://voltcraft.onrender.com",
     texture: '/textures/project/voltcraft.mp4',
     logo: '/assets/voltcraft.webp',
     logoStyle: {
